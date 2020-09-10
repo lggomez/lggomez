@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**TODO:** Add TODOs and a static site if I ever the time to do so... :sweat_smile:
+
 <!--
 **lggomez/lggomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
